@@ -1,0 +1,18 @@
+
+
+.bg-red{
+    background: 
+
+}
+.max-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+}
+.flex-col{
+    flex-direction:column;
+}
+.text-center{
+    align-items: center;
+}
